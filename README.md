@@ -10,7 +10,7 @@
   if(true){
   }
 
-  //Caso não fior informado uma expressão ou um valor boolean diretamente, ele fará um Type coercion (Coersão de tipo)
+  //Caso não fior informado uma expressão ou um valor boolean diretamente, ele fará um Type coercion (Coerção de tipo)
   //Ex.
   if(0) { //Nessa linha ira fazer uma conversão do 0 para um boolean (verdadeiro ou falso), nesse caso 0 será falso
   } 
